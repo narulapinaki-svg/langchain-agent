@@ -60,3 +60,4 @@ Content: 🔐 Secret API data: ETH price = $1,579.56
 - **Sepolia Testnet** — Ethereum test network
 
 ## Agent Wallet
+0x68980cec476eCCb1cf8Cd23D8Fa4cB93Bb9f5311
